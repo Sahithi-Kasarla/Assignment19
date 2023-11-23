@@ -1,0 +1,10 @@
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\bin\Debug\Assignment19.exe.config
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\bin\Debug\Assignment19.exe
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\bin\Debug\Assignment19.pdb
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\bin\Debug\ShapeAreaLib.dll
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\bin\Debug\ShapeAreaLib.pdb
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\obj\Debug\Assignment19.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\obj\Debug\Assignment19.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\obj\Debug\Assignment19.csproj.CopyComplete
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\obj\Debug\Assignment19.exe
+C:\Users\Dell\source\Day14\Assignment19\Assignment19\obj\Debug\Assignment19.pdb
